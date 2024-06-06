@@ -1,0 +1,34 @@
+{
+  "elements" : [ {
+    "allowOverride" : false,
+    "combinationType" : "FUNCTION",
+    "displayOptions" : 0,
+    "elementGroups" : [ ],
+    "elementLabel" : "AbortOnInputGeneration",
+    "elementName" : "AbortOnInputGeneration",
+    "elementTimeout" : 0,
+    "excludeFromExport" : false,
+    "hideOnNull" : false,
+    "hideWarnings" : false,
+    "protectedExpression" : false,
+    "summarize" : false
+  }, {
+    "allowOverride" : false,
+    "combinationType" : "FUNCTION",
+    "displayOptions" : 16,
+    "elementGroups" : [ ],
+    "elementLabel" : "Avgerage Cost USD",
+    "elementName" : "AvgCostUSD",
+    "elementTimeout" : 0,
+    "excludeFromExport" : false,
+    "formatType" : "MONEY_USD",
+    "hideOnNull" : false,
+    "hideWarnings" : false,
+    "protectedExpression" : false,
+    "summarize" : false
+  } ],
+  "label" : "CFS_ProductCostCurrencyConversion",
+  "status" : "ACTIVE",
+  "uniqueName" : "CFS_ProductCostCurrencyConversion",
+  "validAfter" : "2020-01-01"
+}

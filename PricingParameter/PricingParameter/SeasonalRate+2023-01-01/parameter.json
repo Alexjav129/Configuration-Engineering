@@ -1,0 +1,10 @@
+{
+  "hideWarnings" : false,
+  "isPlasma" : false,
+  "label" : "Seasonal Rate",
+  "status" : "ACTIVE",
+  "type" : "MATRIX",
+  "uniqueName" : "SeasonalRate",
+  "validAfter" : "2023-01-01",
+  "valueType" : "MATRIX3"
+}

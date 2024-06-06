@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="AdditionalModuleElements">
+    <content url="file://$MODULE_DIR$" dumb="true">
+      <sourceFolder url="file://$MODULE_DIR$/CalculationLogic/CFS_ProductCostCurrencyConversion+2020-01-01/elements" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CalculationLogic/CompetitionPricing+2020-01-01/elements" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CalculationLogic/DB_SalesManager+2020-01-01/elements" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CalculationLogic/DL_InvoicePriceLogic+2020-01-01/elements" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CalculationLogic/DL_LoadFromProductCost+2020-01-01/elements" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CalculationLogic/HelloPricefxLogic+2020-01-01/elements" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CalculationLogic/LPG_Flow+2020-01-01/elements" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CalculationLogic/LoadPricelistIntoDatamart+2020-01-01/elements" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CalculationLogic/MasterDataAccess+2020-01-01/elements" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CalculationLogic/PADataQuery+2020-01-01/elements" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CalculationLogic/PriceList+2020-01-01/elements" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CalculationLogic/Pricelist+2020-01-01/elements" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CalculationLogic/QuoteHeaderLogic+2020-01-01/elements" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CalculationLogic/QuoteLogic+2020-01-01/elements" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CalculationLogic/SharedLib+2020-01-01/elements" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/WorkflowFormula/ComplexWorkflow+2020-01-01/elements" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/WorkflowFormula/SimpleWorkflow+2020-01-01/elements" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+  </component>
+</module>

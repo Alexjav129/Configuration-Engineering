@@ -1,0 +1,12 @@
+{
+  "envs" : {
+    "DEV" : {
+      "ce-1028" : "https://training.pricefx.eu/"
+    },
+    "PROD" : { },
+    "QA" : { }
+  },
+  "keepLabelsIntact" : false,
+  "keepUserGroups" : false,
+  "keepDataEntitlements" : false
+}

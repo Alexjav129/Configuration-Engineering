@@ -1,0 +1,57 @@
+{
+  "elements" : [ {
+    "allowOverride" : false,
+    "combinationType" : "FUNCTION",
+    "displayOptions" : 16,
+    "elementGroups" : [ ],
+    "elementLabel" : "Year",
+    "elementName" : "Year",
+    "elementTimeout" : 0,
+    "excludeFromExport" : false,
+    "hideOnNull" : false,
+    "hideWarnings" : false,
+    "protectedExpression" : false,
+    "summarize" : false
+  }, {
+    "allowOverride" : false,
+    "combinationType" : "FUNCTION",
+    "displayOptions" : 0,
+    "elementGroups" : [ ],
+    "elementLabel" : "AbortOnInputGeneration",
+    "elementName" : "AbortOnInputGeneration",
+    "elementTimeout" : 0,
+    "excludeFromExport" : false,
+    "hideOnNull" : false,
+    "hideWarnings" : false,
+    "protectedExpression" : false,
+    "summarize" : false
+  }, {
+    "allowOverride" : false,
+    "combinationType" : "FUNCTION",
+    "displayOptions" : 2,
+    "elementLabel" : "Quantity vs Discount",
+    "elementName" : "Quantity_vs_Discount",
+    "elementTimeout" : 0,
+    "excludeFromExport" : false,
+    "hideWarnings" : false,
+    "overridden" : false,
+    "protectedExpression" : false
+  }, {
+    "allowOverride" : false,
+    "combinationType" : "FUNCTION",
+    "displayOptions" : 16,
+    "elementGroups" : [ ],
+    "elementLabel" : "Waterfall Chart",
+    "elementName" : "Waterfall",
+    "elementTimeout" : 0,
+    "excludeFromExport" : false,
+    "hideOnNull" : false,
+    "hideWarnings" : false,
+    "protectedExpression" : false,
+    "summarize" : false
+  } ],
+  "inputDescriptors" : [ ],
+  "status" : "ACTIVE",
+  "uniqueName" : "DB_SalesManager",
+  "validAfter" : "2020-01-01"
+}

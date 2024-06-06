@@ -1,0 +1,20 @@
+{
+  "elements" : [ {
+    "allowOverride" : false,
+    "combinationType" : "FUNCTION",
+    "displayOptions" : 0,
+    "elementGroups" : [ ],
+    "elementLabel" : "New Element",
+    "elementName" : "LoadPricelistIntoDatamart",
+    "elementTimeout" : 0,
+    "excludeFromExport" : false,
+    "hideOnNull" : false,
+    "hideWarnings" : false,
+    "protectedExpression" : false,
+    "summarize" : false
+  } ],
+  "formulaNature" : "distPACalc",
+  "status" : "ACTIVE",
+  "uniqueName" : "LoadPricelistIntoDatamart",
+  "validAfter" : "2020-01-01"
+}

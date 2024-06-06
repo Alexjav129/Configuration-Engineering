@@ -1,0 +1,21 @@
+{
+  "elements" : [ {
+    "allowOverride" : false,
+    "combinationType" : "FUNCTION",
+    "displayOptions" : 16,
+    "elementGroups" : [ "row" ],
+    "elementLabel" : "InvoicePrice_CDL",
+    "elementName" : "InvoicePrice_CDL",
+    "elementTimeout" : 0,
+    "excludeFromExport" : false,
+    "hideOnNull" : false,
+    "hideWarnings" : false,
+    "protectedExpression" : false,
+    "summarize" : false
+  } ],
+  "formulaNature" : "paDataLoad",
+  "label" : "DL_InvoicePriceLogic",
+  "status" : "ACTIVE",
+  "uniqueName" : "DL_InvoicePriceLogic",
+  "validAfter" : "2020-01-01"
+}

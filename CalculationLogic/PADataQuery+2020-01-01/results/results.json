@@ -1,0 +1,5792 @@
+[ {
+  "alertMessage" : null,
+  "alertType" : null,
+  "cellStyles" : null,
+  "cssProperties" : null,
+  "displayOptions" : 0,
+  "elementLabel" : "Customer",
+  "elementName" : "Customer",
+  "elementResult" : "CD-00001",
+  "elementResultClass" : "java.lang.String",
+  "elementResultDescription" : null,
+  "error" : null,
+  "excludeFromExport" : false,
+  "fieldType" : 2,
+  "formatType" : null,
+  "hideOnNull" : false,
+  "hideWarnings" : false,
+  "labelTranslations" : null,
+  "overridable" : false,
+  "overridden" : false,
+  "overrideAllowEmpty" : true,
+  "overrideValueOptions" : [ ],
+  "resultGroup" : null,
+  "resultType" : "SIMPLE",
+  "suffix" : null,
+  "summarize" : false,
+  "traceMessages" : [ ],
+  "userGroup" : null,
+  "warnings" : [ ]
+}, {
+  "alertMessage" : null,
+  "alertType" : null,
+  "cellStyles" : null,
+  "cssProperties" : null,
+  "displayOptions" : 16,
+  "elementLabel" : "Datamart Query",
+  "elementName" : "DataMartQuery",
+  "elementResult" : null,
+  "elementResultClass" : null,
+  "elementResultDescription" : null,
+  "error" : null,
+  "excludeFromExport" : false,
+  "fieldType" : 0,
+  "formatType" : null,
+  "hideOnNull" : false,
+  "hideWarnings" : false,
+  "labelTranslations" : null,
+  "overridable" : false,
+  "overridden" : false,
+  "overrideAllowEmpty" : true,
+  "overrideValueOptions" : [ ],
+  "resultGroup" : null,
+  "resultType" : "SIMPLE",
+  "suffix" : null,
+  "summarize" : false,
+  "traceMessages" : [ {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-12-03",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "495.99",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2018-10-05",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "192.28",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-01-17",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "5129.40",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-07-02",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "232.65",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-09-23",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "50.61",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-06-22",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "622.44",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2018-10-10",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "210.40",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2021-10-18",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "154.00",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-02-25",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "308.37",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-04-05",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "97.92",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-05-02",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "1622.40",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2017-05-26",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "114.587616",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-09-06",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "165",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-09-25",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "143.1",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-02-28",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "572.28",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2020-02-26",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "28.50",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2017-04-26",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "2.20",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2018-05-13",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "267.68",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-10-15",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "361.44",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-07-25",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "377.46",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-08-19",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "45.21",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-03-11",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "820.26",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-03-26",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "394.74",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-08-07",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "371.70",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2018-10-11",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "231.00",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-10-09",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "151.80",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2021-11-05",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "525.80",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-09-10",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "400.98",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-07-25",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "377.46",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-12-26",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "345.29",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-10-18",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "120.32",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-03-20",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "694.08",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2018-07-06",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "726.60",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-02-18",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "1124.64",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-02-06",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "402.96",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2021-05-08",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "792.48",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2018-09-04",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "511.86",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2020-03-25",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "329.752962950",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2017-01-21",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "177.5460960",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-11-12",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "65.60",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-02-19",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "1036.20",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-06-03",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "1481.49",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-04-04",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "650.70",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-12-12",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "33.84",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-11-12",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "65.60",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2020-06-07",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "51.6648",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2017-05-22",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "131.95",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-09-15",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "247.83",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2021-02-08",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "296.38",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-06-13",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "1848.84",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-04-14",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "1216.71",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-11-08",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "784.88",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2017-12-20",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "67.65",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-04-10",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "803.52",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2021-10-05",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "192.28",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-06-07",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "1658.76",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-10-27",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "145.04",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-09-23",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "50.61",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-05-14",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "1134.00",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-08-13",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "165.70",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2017-02-26",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "28.50",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-08-18",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "150.22",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-03-17",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "339.66",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-05-14",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "1134.00",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-05-15",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "828.36",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2021-03-24",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "1006.48",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2017-05-04",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "8.80",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2020-04-24",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "182.00",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2017-01-19",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "159.25",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-10-11",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "389.67",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-01-10",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "1190.16",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-04-28",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "1265.40",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-03-02",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "1024.53",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2018-05-23",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "1092.86",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-06-22",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "622.44",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-12-16",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "582.97",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-05-25",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "107.64",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-04-19",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "1465.20",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-12-16",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "582.97",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-05-12",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "2000.25",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-01-29",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "786.9",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2020-04-27",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "33.82",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2020-04-01",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "140.630256",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-06-17",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "204.84",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2021-11-07",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "755.24",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-04-10",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "803.52",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2020-02-15",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "50.0",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-07-27",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "203.28",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-11-01",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "71.61",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2017-04-22",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "7.5",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2021-12-12",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "139.88",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-08-15",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "336.56",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-06-28",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "516.78",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-11-03",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "368.80",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-02-20",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "206.61",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-09-27",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "30.38",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-01-16",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "86.94",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-05-05",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "440.64",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2020-01-30",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "271.20",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-08-08",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "989.69",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-09-10",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "400.98",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-06-02",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "1161.06",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-09-07",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "443.04",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-12-25",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "19.60",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-10-16",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "504.68",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2017-03-16",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "233.673691349",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-08-30",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "40.09",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-04-30",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "320.04",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-01-27",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "274.74",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-06-04",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "2002.44",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-01-06",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "339.57",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-06-18",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "168.00",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2021-10-11",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "231.00",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2020-04-22",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "7.5",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2017-04-08",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "61.0584",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-01-20",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "1081.2",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-07-14",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "1459.02",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2020-01-19",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "159.25",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2018-10-18",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "154.00",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-09-21",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "814.72",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-07-02",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "232.65",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2020-09-14",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "89.683347",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-12-03",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "495.99",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2017-06-01",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "375.7440",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-03-24",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "1274.28",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2018-06-16",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "27.56",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-10-30",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "136.95",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2021-09-04",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "511.86",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2018-06-24",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "252.48",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-02-03",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "1894.65",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-07-04",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "733.05",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-12-04",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "163.4",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-06-16",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "703.17",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-12-25",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "19.60",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-04-04",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "650.70",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-04-15",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "1131.03",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-06-11",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "753.12",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2017-05-28",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "50.05",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-07-07",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "690.30",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-07-27",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "203.28",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-10-27",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "145.04",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2020-04-08",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "61.0584",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-05-12",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "2000.25",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-01-29",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "786.9",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-07-14",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "1459.02",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-08-21",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "46.20",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2020-12-20",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "67.65",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-02-18",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "1124.64",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-11-01",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "71.61",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2021-06-24",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "252.48",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-06-02",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "1161.06",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-08-19",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "45.21",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-12-26",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "345.29",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2020-06-15",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "199.864496",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2021-05-04",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "458.88",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-10-20",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "472.50",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-06-16",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "703.17",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-05-27",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "1549.80",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-05-06",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "832.50",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-07-18",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "982.35",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-01-27",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "274.74",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2020-04-05",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "55.18",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-11-19",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "150.67",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2018-09-05",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "254.32",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-05-20",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "352.59",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2020-05-26",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "114.587616",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-09-07",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "443.04",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-10-29",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "392.2",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-12-18",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "99.75",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-02-15",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "471.15",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-03-09",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "1920.15",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2018-01-21",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "109.40",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-11-19",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "150.67",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-04-29",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "57.75",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-01-10",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "1190.16",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2017-01-02",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "39.55",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-07-01",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "79.53",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-10-04",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "313.80",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-02-19",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "1036.20",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-04-29",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "57.75",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2020-05-28",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "50.05",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-08-30",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "40.09",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-03-20",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "694.08",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2018-05-04",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "458.88",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2017-02-11",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "28.1808",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2020-01-28",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "41.79",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-02-28",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "572.28",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-01-06",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "339.57",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2018-11-07",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "755.24",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-08-18",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "150.22",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-06-28",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "516.78",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2018-06-03",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "210.40",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-10-21",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "94.86",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2018-10-23",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "601.46",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-09-24",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "305.25",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2020-06-28",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "79.60",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2017-04-01",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "140.630256",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-05-23",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "221.76",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2020-05-04",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "8.80",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-12-01",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "270.50",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-03-24",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "1274.28",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2021-07-06",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "726.60",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2020-03-10",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "12.5",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-03-07",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "104.55",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2018-03-24",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "1006.48",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2017-04-05",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "55.18",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-07-21",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "1357.59",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-02-14",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "1230.24",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-05-06",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "832.50",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2020-04-26",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "2.20",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-03-13",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "435.12",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2018-02-01",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "97.82",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-01-21",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "22.68",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2017-02-15",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "50.0",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-07-28",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "197.37",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-05-23",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "221.76",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2021-10-10",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "210.40",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-10-17",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "59.0",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-03-17",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "339.66",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-02-01",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "210.42",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2020-02-11",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "28.1808",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2017-09-14",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "89.683347",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2021-02-15",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "415.54",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-07-01",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "79.53",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2020-04-15",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "126.230208",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2017-04-24",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "182.00",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-08-13",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "165.70",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-04-12",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "1926.45",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-02-08",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "48.51",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-05-09",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "189.51",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-03-09",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "1920.15",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-03-07",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "104.55",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-03-01",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "764.22",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-10-29",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "392.2",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-04-30",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "320.04",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-02-06",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "402.96",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-09-06",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "165",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2017-06-15",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "199.864496",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2018-02-04",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "357.28",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2017-03-25",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "329.752962950",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-03-13",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "435.12",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-12-19",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "142.56",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-12-28",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "418.7",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2021-01-22",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "907.12",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-05-05",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "440.64",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-10-08",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "377.46",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-01-12",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "1327.68",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-10-11",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "389.67",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-02-25",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "308.37",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-08-21",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "46.20",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-02-08",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "48.51",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2020-03-17",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "102.5",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2021-10-23",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "601.46",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-12-04",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "163.4",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2020-06-01",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "375.7440",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-12-18",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "99.75",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2021-10-09",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "62.78",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-12-28",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "418.7",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-08-22",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "59.22",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2018-01-22",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "907.12",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-02-14",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "1230.24",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-08-11",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "16.94",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2018-11-05",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "525.80",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-12-06",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "567.58",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2018-12-12",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "139.88",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-09-25",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "143.1",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-02-01",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "210.42",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-07-26",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "776.34",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-03-26",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "394.74",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-03-01",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "764.22",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-09-17",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "467.18",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-10-04",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "313.80",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2020-03-16",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "233.673691349",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2021-06-16",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "27.56",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2021-09-05",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "254.32",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-01-22",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "265.5",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2017-03-02",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "18.75",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-08-22",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "59.22",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2017-03-10",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "12.5",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2018-05-08",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "792.48",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2020-01-21",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "177.5460960",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-12-09",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "151.92",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-07-04",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "733.05",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-09-27",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "30.38",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-05-02",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "1622.40",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-06-04",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "2002.44",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-03-11",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "820.26",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-01-25",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "1701.69",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-04-14",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "1216.71",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-06-07",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "1658.76",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2017-01-30",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "271.20",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2018-11-18",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "425.58",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-07-26",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "776.34",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-07-18",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "982.35",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-11-03",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "368.80",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-05-25",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "107.64",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2021-11-18",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "425.58",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-11-08",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "784.88",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-10-20",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "472.50",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-05-15",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "828.36",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2017-04-15",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "126.230208",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2021-12-27",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "335.28",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2021-05-23",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "1092.86",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-10-18",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "120.32",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2018-02-15",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "415.54",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2017-01-28",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "41.79",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2021-02-04",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "357.28",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-02-20",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "206.61",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-07-12",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "211.68",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-08-08",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "989.69",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-10-09",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "151.80",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-06-11",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "753.12",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-02-27",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "202.8",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-05-20",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "352.59",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-05-09",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "189.51",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2018-02-08",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "296.38",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2017-06-28",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "79.60",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-01-12",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "1327.68",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-02-27",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "202.8",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-09-15",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "247.83",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-08-11",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "16.94",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-01-22",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "265.5",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-05-27",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "1549.80",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-03-02",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "1024.53",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2017-06-07",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "51.6648",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-08-15",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "336.56",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-12-01",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "270.50",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2018-08-11",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "332.62",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-02-03",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "1894.65",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-02-15",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "471.15",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2017-03-17",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "102.5",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-12-19",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "142.56",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-12-09",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "151.92",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-01-16",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "86.94",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2021-01-21",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "109.40",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-04-12",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "1926.45",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-04-28",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "1265.40",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-01-20",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "1081.2",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-10-08",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "377.46",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-04-15",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "1131.03",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-01-17",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "5129.40",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-09-24",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "305.25",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-12-12",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "33.84",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-02-24",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "142.29",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-04-05",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "97.92",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-10-17",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "59.0",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-09-17",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "467.18",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2021-05-13",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "267.68",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-06-13",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "1848.84",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-10-30",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "136.95",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2021-04-08",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "635.80",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-02-24",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "142.29",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-10-16",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "504.68",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-06-03",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "1481.49",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2020-05-22",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "131.95",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2018-04-08",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "635.80",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2017-04-27",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "33.82",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2021-06-03",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "210.40",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-09-21",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "814.72",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-08-07",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "371.70",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2018-12-27",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "335.28",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-06-17",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "204.84",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2018-10-09",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "62.78",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2020-03-02",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "18.75",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-04-19",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "1465.20",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-01-25",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "1701.69",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-07-28",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "197.37",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2021-08-11",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "332.62",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2021-02-01",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "97.82",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-07-07",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "690.30",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-10-21",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "94.86",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-10-15",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "361.44",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-07-21",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "1357.59",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-07-12",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "211.68",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-01-21",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "22.68",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2019-12-06",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "567.58",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2022-06-18",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "168.00",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Customer ID:",
+    "parameters" : null,
+    "result" : "CD-00001",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Date:",
+    "parameters" : null,
+    "result" : "2020-01-02",
+    "resultClass" : "java.lang.String"
+  }, {
+    "functionName" : "Cost",
+    "parameters" : null,
+    "result" : "39.55",
+    "resultClass" : "java.lang.String"
+  } ],
+  "userGroup" : null,
+  "warnings" : [ ]
+}, {
+  "alertMessage" : null,
+  "alertType" : null,
+  "cellStyles" : null,
+  "cssProperties" : null,
+  "displayOptions" : 16,
+  "elementLabel" : "DataMart Agg Totals",
+  "elementName" : "DataMartAggTotals",
+  "elementResult" : "             Customer I invoiceCou Avg Profit Total Reve Total prof Total Qty  Total Disc\n==========   ---------- ---------- ---------- ---------- ---------- ---------- ----------\n           | CD-00001     378.0000   226.8014  2.731E005 85730.9420 45316.0000 75380.0501\n",
+  "elementResultClass" : "net.pricefx.formulaengine.scripting.Matrix2DImpl",
+  "elementResultDescription" : null,
+  "error" : null,
+  "excludeFromExport" : false,
+  "fieldType" : 2,
+  "formatType" : null,
+  "hideOnNull" : false,
+  "hideWarnings" : false,
+  "labelTranslations" : null,
+  "overridable" : false,
+  "overridden" : false,
+  "overrideAllowEmpty" : true,
+  "overrideValueOptions" : [ ],
+  "resultGroup" : null,
+  "resultType" : "SIMPLE",
+  "suffix" : null,
+  "summarize" : false,
+  "traceMessages" : [ {
+    "functionName" : "query row",
+    "parameters" : null,
+    "result" : "{\"Customer ID\":\"CD-00001\",\"invoiceCount\":378,\"Avg Profit\":226.8014339170285714,\"Total Revenue\":273064.075367234800,\"Total profit\":85730.942020636800,\"Total Qty\":45316,\"Total Discount\":75380.050112765200}",
+    "resultClass" : "java.lang.String"
+  } ],
+  "userGroup" : null,
+  "warnings" : [ ]
+}, {
+  "alertMessage" : null,
+  "alertType" : null,
+  "cellStyles" : null,
+  "cssProperties" : null,
+  "displayOptions" : 0,
+  "elementLabel" : "__TRACE__",
+  "elementName" : "__TRACE__",
+  "elementResult" : "---------------------------------------------------------\nDuration (ms)                  Count  Execution element\n---------------------------------------------------------\n   377.31  100% ██████████         1  TestExecute\n     0.22    0% ░░░░░░░░░░         1  ├── search.Partition\n     0.88    0% ░░░░░░░░░░         1  ├── search.ApplicationProperties\n   375.92  100% █████████▓         1  └── PADataQuery\n     0.06    0% ░░░░░░░░░░         1    ├── POS.flush\n    96.64   26% ██▓░░░░░░░         1    ├── Customer\n     0.57    0% ░░░░░░░░░░         1    │   └── search.PricingFormula\n   152.92   41% ████░░░░░░         1    ├── DataMartQuery\n     2.10    1% ░░░░░░░░░░         1    │   ├── search.DMDatamart\n     0.02    0% ░░░░░░░░░░         1    │   ├── get\n     4.85    1% ░░░░░░░░░░         5    │   ├── search.DMDataSource\n    47.86   13% █░░░░░░░░░         1    │   └── executeQuery\n     0.03    0% ░░░░░░░░░░         1    │     ├── throttling\n    46.71   12% █░░░░░░░░░         1    │     └── execute(ExecQueryAction)\n   126.28   33% ███░░░░░░░         1    └── DataMartAggTotals\n    44.11   12% █░░░░░░░░░         1      └── executeQuery\n     0.03    0% ░░░░░░░░░░         1        ├── throttling\n    42.88   11% █░░░░░░░░░         1        └── execute(ExecQueryAction)\n",
+  "elementResultClass" : "java.lang.String",
+  "elementResultDescription" : null,
+  "error" : null,
+  "excludeFromExport" : false,
+  "fieldType" : 2,
+  "formatType" : null,
+  "hideOnNull" : false,
+  "hideWarnings" : false,
+  "labelTranslations" : null,
+  "overridable" : false,
+  "overridden" : false,
+  "overrideAllowEmpty" : true,
+  "overrideValueOptions" : [ ],
+  "resultGroup" : null,
+  "resultType" : "SIMPLE",
+  "suffix" : null,
+  "summarize" : false,
+  "traceMessages" : [ ],
+  "userGroup" : null,
+  "warnings" : [ ]
+} ]

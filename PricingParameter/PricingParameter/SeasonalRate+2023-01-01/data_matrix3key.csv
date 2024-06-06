@@ -1,0 +1,13 @@
+key1,key2,key3,attribute1,attribute2,attribute3,attribute4,attribute5,attribute6,attribute7,attribute8,attribute9,attribute10,attribute11,attribute12,attribute13,attribute14,attribute15,attribute16,attribute17,attribute18,attribute19,attribute20,attribute21,attribute22,attribute23,attribute24,attribute25,attribute26,attribute27,attribute28,attribute29,attribute30
+America,Beef,2022-06-20,1.05,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+America,Beef,2023-03-01,0.95,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+America,Beef,2023-05-17,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+America,Pork,2022-06-18,1.05,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+America,Pork,2022-12-15,0.85,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+America,Pork,2023-05-17,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Europe,Beef,2022-06-01,1.08,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Europe,Beef,2023-03-12,0.98,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Europe,Beef,2023-05-01,1.02,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Europe,Pork,2022-06-01,0.98,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Europe,Pork,2023-03-12,1.05,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Europe,Pork,2023-05-01,0.85,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

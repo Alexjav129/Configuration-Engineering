@@ -1,0 +1,21 @@
+{
+  "elements" : [ {
+    "allowOverride" : false,
+    "combinationType" : "FUNCTION",
+    "displayOptions" : 16,
+    "elementGroups" : [ ],
+    "elementLabel" : "Hello Pricefx Element",
+    "elementName" : "HelloPricefxElement",
+    "elementTimeout" : 0,
+    "excludeFromExport" : false,
+    "formatType" : "TEXT",
+    "hideOnNull" : false,
+    "hideWarnings" : false,
+    "protectedExpression" : false,
+    "summarize" : false
+  } ],
+  "label" : "HelloPricefxLogic Final",
+  "status" : "ACTIVE",
+  "uniqueName" : "HelloPricefxLogic",
+  "validAfter" : "2020-01-01"
+}

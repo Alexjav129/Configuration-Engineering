@@ -1,0 +1,12 @@
+{
+  "cssProperties" : "",
+  "fieldName" : "key2",
+  "fieldType" : 2,
+  "formatType" : "TEXT",
+  "label" : "ProductGroup",
+  "labelTranslations" : {
+    "" : "Product Group"
+  },
+  "readOnly" : false,
+  "requiredField" : true
+}
